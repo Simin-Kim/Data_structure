@@ -57,6 +57,8 @@ int main()
 	int key;
 	headNode* headnode = NULL;
 
+	printf("[----- [±è½Ã¹Î] [2016039081] -----]\n");
+	
 	do {
 		printf("----------------------------------------------------------------\n");
 		printf("                     Doubly Linked  List                        \n");
